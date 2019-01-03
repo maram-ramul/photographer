@@ -1,0 +1,85 @@
+h1{
+	margin:30px 150px 0px 80px;
+	color: black;
+	text-align: center;
+	font-size: 150px;
+	padding: 30px;
+    font-style: italic;
+
+}
+
+h2{
+	float: right;
+	margin: 70px 100px 0 0;
+	font-size: 40px;
+   font-style: italic;}
+
+#picR{
+width: 250px;
+height:100px;
+float: right;
+
+}
+
+#picL {
+width: 250px;
+height:100px;
+float: left;
+
+}
+
+body{
+	width: 90%;
+	float: right;
+}
+
+
+
+
+
+.bar button {
+    margin: 300px 10px 80px 0px;
+    background-color: #B53471;
+    text-decoration: none;
+    border: none;
+    padding: 15px 32px;
+    font-size: 20px;
+    border-radius: 8px;
+    color: white;
+    float: right;
+    height: 60px;
+    transition: 0.3s;
+    list-style: none;
+    
+    
+   
+}
+
+.bar button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+.bar button.active {
+  background-color: #ccc;
+}
+
+.
+
+#about p {
+    font-size: 40px;
+}
+
+.tabcontent{
+   float: center;
+   width: 30%;
+    margin: 500px 500px 400px 450px 
+}
+
+ /*#pic img{
+    width: 1100px;
+    height: 300px;
+    
+
+ }
+ 

@@ -1,0 +1,61 @@
+
+
+h1{
+	margin:30px 150px 0px 80px;
+	color: black;
+	text-align: center;
+	font-size: 70px;
+	padding: 30px;
+    font-style: italic;
+
+}
+
+#picR{
+width: 250px;
+height:100px;
+float: right;
+
+}
+
+#picL {
+width: 250px;
+height:100px;
+float: left;
+
+}
+
+body{
+	width: 90%;
+	float: right;
+}
+
+.polaroid {
+  width: 16%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  display: inline-block;
+  margin: 100px 20px 0px 60px;
+  list-style:none;
+  color: black;
+
+}
+
+.container {
+  text-align: center;
+  padding: 10px 20px;
+
+}
+
+.s1{
+	margin: 100px 20px 100px 60px;
+}
+
+
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+
+
+
